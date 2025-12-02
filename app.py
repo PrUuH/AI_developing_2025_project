@@ -10,7 +10,7 @@ from utils.company_graph import CompanyConnectionGraph
 from utils.data_loader import BuyerDataLoader
 from utils.document_access import DocumentAccessManager
 
-DB_PATH = "/home/donat/WorkSpace/WorkSpace/CK_proj/m_and_a.db"
+DB_PATH = "m_and_a.db"
 
 st.set_page_config(page_title="AI M&A Platform", layout="wide")
 st.title("AI-Платформа для Продажи Бизнеса")
@@ -139,4 +139,5 @@ if st.button("Запустить анализ продажи", type="primary"):
         except Exception as e:
             st.error(f"Ошибка: {e}")
 else:
+
     st.info("Заполните данные о вашем бизнесе и нажмите «Запустить анализ продажи».")
