@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['g_75',['G',['../namespaceutils_1_1test.html#a1dcd5947934162ebc8a0f59d6c20948d',1,'utils::test']]],
+  ['generate_76',['generate',['../classutils_1_1teaser__generator__hf_1_1TeaserGenerator.html#a4e17e01a87c4babb7b530a8e63a16ecb',1,'utils.teaser_generator_hf.TeaserGenerator.generate()'],['../classutils_1_1email__generator_1_1EmailGenerator.html#a3eb38949319050011257d900d1c32950',1,'utils.email_generator.EmailGenerator.generate()']]],
+  ['generate_5fall_77',['generate_all',['../classutils_1_1df__gen_1_1MADatasetGenerator.html#a377f50217300dc3e4cc49ac9c9701f11',1,'utils::df_gen::MADatasetGenerator']]],
+  ['generate_5fall_5fnews_78',['generate_all_news',['../namespaceutils_1_1news__generator.html#a1bd4b31f448cddffc837d40db2240ab2',1,'utils::news_generator']]],
+  ['generate_5fbuyers_79',['generate_buyers',['../classutils_1_1df__gen_1_1MADatasetGenerator.html#a3a4b76dc977c00e3c646ff3b45136657',1,'utils::df_gen::MADatasetGenerator']]],
+  ['generate_5fdeals_80',['generate_deals',['../classutils_1_1df__gen_1_1MADatasetGenerator.html#a1b203406f27af2245f8d9dde27b2c7d9',1,'utils::df_gen::MADatasetGenerator']]],
+  ['generate_5fsellers_81',['generate_sellers',['../classutils_1_1df__gen_1_1MADatasetGenerator.html#a283b3f3f11eebeea94d26ee8a432d70c',1,'utils::df_gen::MADatasetGenerator']]],
+  ['generate_5fsynthetic_5fnews_82',['generate_synthetic_news',['../namespaceutils_1_1news__generator.html#a2fc073e28aed3dc41c8b9e407cbfee8a',1,'utils::news_generator']]],
+  ['generator_83',['generator',['../namespaceutils_1_1teaser__generator__hf.html#a40620b20c5ea2a933c3e2f6d4e64c42d',1,'utils.teaser_generator_hf.generator()'],['../namespaceutils_1_1email__generator.html#acd3423d0007de25333852d7d17d337c9',1,'utils.email_generator.generator()'],['../namespaceutils_1_1df__gen.html#a403b3807a00671e4836fcd039d2a78e9',1,'utils.df_gen.generator()']]],
+  ['geographies_84',['GEOGRAPHIES',['../namespaceapp.html#ab1b834ed589474fc7626c503ba1ec19c',1,'app.GEOGRAPHIES()'],['../namespaceutils_1_1news__ner.html#a4a7e5523892e65d5f52a8df4185c57f6',1,'utils.news_ner.GEOGRAPHIES()'],['../classutils_1_1df__gen_1_1MADatasetGenerator.html#a44d3c547cf31cc4a01b8bf09a19ecd2e',1,'utils.df_gen.MADatasetGenerator.GEOGRAPHIES()']]],
+  ['geography_85',['geography',['../namespaceapp.html#aae370c8fcde41b8e878197317fb6c273',1,'app']]],
+  ['german_5fcities_86',['GERMAN_CITIES',['../classutils_1_1df__gen_1_1MADatasetGenerator.html#afe1c4d4afcf52f3c08d18a3de63793e1',1,'utils::df_gen::MADatasetGenerator']]],
+  ['get_5fdossier_5fas_5fjson_87',['get_dossier_as_json',['../classutils_1_1document__access_1_1DocumentAccessManager.html#a4a58bf9f516872b7f7111f8bbadb09ed',1,'utils::document_access::DocumentAccessManager']]],
+  ['get_5ffull_5fdossier_88',['get_full_dossier',['../classutils_1_1document__access_1_1DocumentAccessManager.html#ad5dfee84d18ac36664348d8914ef9f9f',1,'utils::document_access::DocumentAccessManager']]],
+  ['get_5fplot_5ffigure_89',['get_plot_figure',['../classutils_1_1company__graph_1_1CompanyConnectionGraph.html#aaa1b1e987561e492608951333569383e',1,'utils::company_graph::CompanyConnectionGraph']]],
+  ['get_5fteaser_90',['get_teaser',['../classutils_1_1document__access_1_1DocumentAccessManager.html#a1e59501f78126cd3ea2f89b7845f9e3e',1,'utils::document_access::DocumentAccessManager']]],
+  ['graph_91',['graph',['../classutils_1_1company__graph_1_1CompanyConnectionGraph.html#ab2225a7cf2357e22648e6b036824ee41',1,'utils::company_graph::CompanyConnectionGraph']]],
+  ['graph_5fbuilder_92',['graph_builder',['../namespaceapp.html#af518781f71745bd371b394fd76cda3ff',1,'app']]]
+];
